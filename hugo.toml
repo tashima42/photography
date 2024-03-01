@@ -1,0 +1,14 @@
+baseURL = 'https://tashima42.github.io/photos/'
+languageCode = 'en-us'
+title = 'Pedro Tashima Photography'
+theme = 'autophugo'
+
+[params]
+    thumb_width = 1080
+    thumb_quality = 100
+    full_width = 1080
+    full_quality = 100
+    column_count = 3
+    images_downloadable = true
+    images_downloadable_use_orig = true
+
