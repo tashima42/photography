@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FEBRUARY 2024 on Pedro Tashima Photography</title>
-    <link>http://localhost:1313/photos/february-2024/</link>
+    <link>https://tashima42.github.io/photos/february-2024/</link>
     <description>Recent content in FEBRUARY 2024 on Pedro Tashima Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/photos/february-2024/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tashima42.github.io/photos/february-2024/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
